@@ -1,7 +1,7 @@
-const Design = ({ name, sub, bg }) => {
+const DesignCard = ({ name, sub, bg }) => {
     console.log(bg);
     return (
-        <div className="pl-6 pr-6 pt-6">
+        <div className="pt-[12px]">
             <div className='w-full h-[250px]'>
                 <div className="bg-black rounded-[15px]">
                     <img src={bg} alt="bg" className="rounded-[15px] opacity-50 h-[250px]" />
@@ -15,4 +15,4 @@ const Design = ({ name, sub, bg }) => {
     )
 }
 
-export default Design;
+export default DesignCard;
