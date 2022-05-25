@@ -15,7 +15,8 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        'conic-gradient': 'conic-gradient(#E7816B, transparent)'
+        'conic-gradient': 'conic-gradient(#E7816B, transparent)',
+        'linear-bw': 'linear-gradient(to bottom, #ffffff 0%, #ffffff 59%, #1D1C1E 59%, #1D1C1E 100%)'
       }
     },
   },
