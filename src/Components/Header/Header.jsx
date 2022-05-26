@@ -3,7 +3,7 @@ import Burger from '../../assets/shared/mobile/icon-hamburger.svg';
 
 const Header = () => {
     return (
-        <div className="h-24 flex items-center pl-6 pr-6 md:h-[155px] md:pl-10 md:pr-10">
+        <div className="h-24 flex ml-auto mr-auto items-center pl-6 pr-6 md:h-[155px] md:pl-10 md:pr-10 lg:w-[1111px] lg:pl-0 lg:pr-0">
             <div className="h-6 w-6 bg-conic-gradient rounded-full"></div>
             <div className="font-spartan font-bold text-2xl tracking-[5px] pl-[21px] md:text-[30px]">
                 DESIGNO
