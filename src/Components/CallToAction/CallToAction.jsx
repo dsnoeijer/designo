@@ -1,4 +1,4 @@
-import Button from "../Button/Button";
+import Button from "../Common/Button/Button";
 
 
 const CallToAction = () => {
@@ -12,7 +12,7 @@ const CallToAction = () => {
                 </p>
             </div>
             <div>
-                <div className="pt-8 md:pt-8">
+                <div className="pt-8 md:pt-8 lg:pt-0">
                     <Button text='GET IN TOUCH' />
                 </div>
             </div>

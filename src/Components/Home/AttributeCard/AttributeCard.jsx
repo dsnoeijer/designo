@@ -1,6 +1,3 @@
-import bgImage from '../../assets/shared/desktop/bg-pattern-small-circle.svg';
-
-
 const AttributeCard = ({ name, img, text }) => {
     return (
         <div className='pt-10 pb-[40px] md:flex lg:flex-col '>

@@ -1,8 +1,8 @@
-import FacebookLogo from '../../assets/shared/desktop/icon-facebook.svg';
-import YoutubeLogo from '../../assets/shared/desktop/icon-youtube.svg';
-import TwitterLogo from '../../assets/shared/desktop/icon-twitter.svg';
-import PinterestLogo from '../../assets/shared/desktop/icon-pinterest.svg';
-import InstagramLogo from '../../assets/shared/desktop/icon-instagram.svg';
+import FacebookLogo from '../../../assets/shared/desktop/icon-facebook.svg';
+import YoutubeLogo from '../../../assets/shared/desktop/icon-youtube.svg';
+import TwitterLogo from '../../../assets/shared/desktop/icon-twitter.svg';
+import PinterestLogo from '../../../assets/shared/desktop/icon-pinterest.svg';
+import InstagramLogo from '../../../assets/shared/desktop/icon-instagram.svg';
 
 
 const Social = () => {
